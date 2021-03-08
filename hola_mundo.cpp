@@ -20,7 +20,7 @@ class clasecita{
          nombre=name;
      }
 };
-
+ // estoy probando lo de git 
 int x=1;
 int main(){
  int a;
