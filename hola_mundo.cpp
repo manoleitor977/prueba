@@ -23,6 +23,7 @@ class clasecita{
  // estoy probando lo de git 
 //Esto lo estoy escribiendo en la pagina de github, luego he usado git pull
 // estoy cambiando la rama main
+// acabo de crear una branch con git branch y el nombre
 int x=1;
 int main(){
  int a;
