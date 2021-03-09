@@ -21,7 +21,7 @@ class clasecita{
      }
 };
  // estoy probando lo de git 
-//Esto lo estoy escribiendo en la pagina de github
+//Esto lo estoy escribiendo en la pagina de github, luego he usado git pull
 int x=1;
 int main(){
  int a;
