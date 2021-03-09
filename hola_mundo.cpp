@@ -24,6 +24,7 @@ class clasecita{
 //Esto lo estoy escribiendo en la pagina de github, luego he usado git pull
 // estoy cambiando la rama main
 // acabo de crear una branch con git branch y el nombre
+// luego las he juntado con git merge + nombre de la rama
 int x=1;
 int main(){
  int a;
